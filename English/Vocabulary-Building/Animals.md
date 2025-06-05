@@ -125,6 +125,21 @@ This booklet introduces animals with simple, fun English sentences for little on
 ### Pigeon / 鸽子
 **"This is a pigeon! Pigeons fly high and say 'coo, coo!'"**
 
+### Magpie / 喜鹊
+**"This is a magpie! Magpies are smart birds with black and white feathers. They often live in cities and parks!"**
+
+### Crow / 乌鸦
+**"This is a crow! Crows are black birds that caw loudly and are very clever. They are common in cities."**
+
+### Swallow / 燕子
+**"This is a swallow! Swallows have forked tails and fly quickly. They build nests under roofs in the city."**
+
+### Spotted Dove / 斑鸠
+**"This is a spotted dove! Spotted doves have speckled necks and coo softly in city parks."**
+
+### Mynah / 八哥
+**"This is a mynah! Mynahs are chatty birds that can mimic sounds. They are often seen around town."**
+
 ### Peacock / 孔雀
 **"This is a peacock! Peacocks have long, shiny tail feathers. They fan out like a big rainbow!"**
 
