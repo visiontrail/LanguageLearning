@@ -8,18 +8,6 @@ This booklet introduces animals with simple, fun English sentences for little on
 
 ## Farm Animals / 农场动物
 
-### Cow / 牛
-"This is a cow! Cows give us milk. They say 'moo!' and like to eat grass."
-
-### Pig / 猪
-"This is a pig! Pigs love to roll in the mud and say 'oink, oink!'"
-
-### Sheep / 羊
-"This is a sheep! Sheep have fluffy wool and say 'baa!'"
-
-### Goat / 山羊
-"This is a goat! Goats have little horns and love to climb."
-
 ### Hen / 母鸡
 "This is a hen! Hens lay eggs and say 'cluck, cluck!'"
 
@@ -28,12 +16,6 @@ This booklet introduces animals with simple, fun English sentences for little on
 
 ### Chick / 小鸡
 "This is a chick! Chicks are baby birds. They are yellow and go 'cheep, cheep!'"
-
-### Horse / 马
-"This is a horse! Horses are strong and fast. They carry people and love to run."
-
-### Donkey / 驴
-"This is a donkey! Donkeys have long ears and are very strong. They help people carry loads!"
 
 ### Sheepdog / 牧羊犬
 "This is a sheepdog! Sheepdogs help farmers watch the sheep. They are smart and love to work!"
@@ -48,20 +30,8 @@ This booklet introduces animals with simple, fun English sentences for little on
 
 ## Pets & Companion Animals / 宠物和伴侣动物
 
-### Cat / 猫
-"This is a cat! Cats are soft and cuddly. They say 'meow!' and love to nap."
-
-### Dog / 狗
-"This is a dog! Dogs are friendly and loyal. They love to play and say 'woof woof!'"
-
-### Rabbit / 兔子
-"This is a rabbit! Rabbits have long ears and love to hop, hop, hop!"
-
 ### Hamster / 仓鼠
 "This is a hamster! Hamsters are small and love to run on wheels!"
-
-### Goldfish / 金鱼
-"This is a goldfish! Goldfish live in bowls or ponds and swim all day!"
 
 ### Parrot / 鹦鹉
 "This is a parrot! Parrots are colorful birds that can copy human words!"
@@ -70,23 +40,11 @@ This booklet introduces animals with simple, fun English sentences for little on
 
 ## Forest Animals / 森林动物
 
-### Bear / 熊
-"This is a bear! Bears are big and furry. They like honey and sleep all winter!"
-
 ### Chipmunk / 花栗鼠
 "This is a chipmunk! Chipmunks are tiny and fast. They love to collect nuts in their cheeks!"
 
 ### Hedgehog / 刺猬
 "This is a hedgehog! Hedgehogs have little spines and curl into a ball when scared."
-
-### Fox / 狐狸
-"This is a fox! Foxes have bushy tails and pointy ears. They are clever and quiet!"
-
-### Wolf / 狼
-"This is a wolf! Wolves howl at night and live in packs."
-
-### Deer / 鹿
-"This is a deer! Deer have antlers and run fast. They are shy and live in the woods!"
 
 ### Hare / 野兔
 "This is a hare! Hares are like rabbits but run faster and have longer ears!"
@@ -106,9 +64,6 @@ This booklet introduces animals with simple, fun English sentences for little on
 ---
 
 ## Birds / 鸟类
-
-### Owl / 猫头鹰
-"This is an owl! Owls have big eyes and fly silently at night. They say 'hoo hoo!'"
 
 ### Woodpecker / 啄木鸟
 "This is a woodpecker! Woodpeckers tap trees to find bugs to eat!"
@@ -139,9 +94,6 @@ This booklet introduces animals with simple, fun English sentences for little on
 
 ### Mynah / 八哥
 "This is a mynah! Mynahs are chatty birds that can mimic sounds. They are often seen around town."
-
-### Peacock / 孔雀
-"This is a peacock! Peacocks have long, shiny tail feathers. They fan out like a big rainbow!"
 
 ### Ostrich / 鸵鸟
 "This is an ostrich! Ostriches are the biggest birds. They can't fly, but they run very fast!"
@@ -186,20 +138,11 @@ This booklet introduces animals with simple, fun English sentences for little on
 
 ## Jungle & Rainforest Animals / 丛林和雨林动物
 
-### Elephant / 大象
-"This is an elephant! Elephants are the biggest land animals. They have long trunks and big ears!"
-
 ### Leopard / 豹子
 "This is a leopard! Leopards have spots and climb trees. They are quiet hunters!"
 
-### Tiger / 老虎
-"This is a tiger! Tigers have orange fur with black stripes. They are strong and quiet hunters!"
-
 ### Orangutan / 猩猩
 "This is an orangutan! Orangutans are gentle and live in trees. They have long arms and orange fur!"
-
-### Monkey / 猴子
-"This is a monkey! Monkeys are smart and love to swing in trees and eat bananas!"
 
 ### Baboon / 狒狒
 "This is a baboon! Baboons have strong arms and big teeth. They live in groups and love to play!"
@@ -210,17 +153,11 @@ This booklet introduces animals with simple, fun English sentences for little on
 ### Tree Frog / 树蛙
 "This is a tree frog! Tree frogs are small and green. They jump from leaf to leaf!"
 
-### Giraffe / 长颈鹿
-"This is a giraffe! Giraffes have long necks and long legs. They can reach the tallest trees!"
-
 ### Sloth / 树懒
 "This is a sloth! Sloths move very slowly and sleep a lot in the trees."
 
 ### Tapir / 貘
 "This is a tapir! Tapirs have short trunks and love to swim. They live in rainforests!"
-
-### Bat / 蝙蝠
-"This is a bat! Bats sleep during the day and fly at night. They use their ears to find bugs!"
 
 ### Aye-aye / 指猴
 "This is an aye-aye! Aye-ayes have big eyes and long fingers. They live in trees and come out at night!"
@@ -231,12 +168,6 @@ This booklet introduces animals with simple, fun English sentences for little on
 ---
 
 ## Grassland & Savannah Animals / 草原动物
-
-### Lion / 狮子
-"This is a lion! Lions are strong and live in groups. The males have big manes!"
-
-### Zebra / 斑马
-"This is a zebra! Zebras have black and white stripes. They run fast in the grass!"
 
 ### Rhinoceros / 犀牛
 "This is a rhinoceros! Rhinos have thick skin and one or two horns. They are very strong!"
