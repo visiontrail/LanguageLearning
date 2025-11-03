@@ -176,8 +176,8 @@ This booklet introduces animals with simple, fun English sentences for little on
 ### Flamingo / 火烈鸟
 "This is a flamingo! Flamingos are pink birds that stand on one leg and live in water!"
 
-### Kakapo / 夜鹦鹉
-"This is a kakapo! Kakapos are big, flightless parrots that live in New Zealand."
+### Kakapo / 夜鹦鹉(鸮面鹦鹉)
+"This is a kakapo! Kakapos are big, flightless parrots that live in New Zealand. It looks like an owl."
 
 ### Puffin / 海鹦
 "This is a puffin! Puffins are birds with colorful beaks. They fly and dive for fish!"
